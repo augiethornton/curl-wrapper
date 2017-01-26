@@ -21,7 +21,6 @@ ARG3=
 ARG4=
 ARG5=
 ARG6=
-ARG7=
 
 echo "Choose one of the following user token roles:"
 echo
